@@ -1,8 +1,6 @@
 
 ### Hi there, My name's Dennis Ong - aka [codeSTACKr][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## Currently a full time student in Cal State East Bay. 
 ## A full-time software engineer intern in Bioforcetech as well.
@@ -43,10 +41,6 @@
 
 <br />
 <br />
-
----
-
-
 
 ---
 
