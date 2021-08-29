@@ -1,16 +1,15 @@
 
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, My name's Dennis Ong - aka [codeSTACKr][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## Currently a full time student in Cal State East Bay, a full-time software engineer intern in Bioforcetech as well.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning algorithms and data structures and competitive programmning
+- 👯 I’m love to collaborate full stack applications with people
+- 🥅 2021 Goals: Compete in Facebook Cup, getting into CodeForce Apprentice rating 🏴󠁧󠁢󠁮󠁩󠁲󠁿
+- ⚡ Fun fact: I powerlift 6 times per week 🏋️
 
 ### Connect with me:
 
