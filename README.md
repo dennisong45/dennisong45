@@ -6,7 +6,7 @@
 ## Currently a full time student in Cal State East Bay. 
 ## A full-time software engineer intern in Bioforcetech as well.
 
-- 🌱 I’m currently learning algorithms and data structures and competitive programmning
+- 🌱 Currently learning React Native and Machine Learning
 - 👯 I’m love to collaborate full stack applications with people
 - 🥅 2021 Goals: Compete in Facebook Cup, getting into CodeForce Apprentice rating 🏴󠁧󠁢󠁮󠁩󠁲󠁿
 - ⚡ Fun fact: I powerlift 6 times per week 🏋️
