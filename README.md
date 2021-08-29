@@ -46,31 +46,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [Remote Team Collaboration Techniques // Tara Z. Manicsic React Advanced London Interview](https://www.youtube.com/watch?v=vQjDWKy6Pcw)
-- [2021 Frontend Roadmap #shorts | Save This!](https://www.youtube.com/watch?v=CxDwSZwysjQ)
-- [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
-- [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
@@ -94,13 +70,4 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
